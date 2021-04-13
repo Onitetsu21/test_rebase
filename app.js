@@ -1,0 +1,1 @@
+function buy(){window.alert("Merci pour votre code de CB ! :)")}
